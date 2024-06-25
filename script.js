@@ -11,7 +11,7 @@ const body = document.querySelector('body')
 function yes() {
     text.style.display = 'block'
     buttons.style.display = 'none'
-    question.textContent = "Yey! It's a date then"
+    question.textContent = "Yey! It's a date then!!"
     gif.src = 'assets/giphy.gif'
 
 
